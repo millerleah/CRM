@@ -1,0 +1,34 @@
+{
+  "objectives_of_pre_qualification_interview": {
+    "1": "Ensure understanding of the program",
+    "2": "Assess fit for the program",
+    "3": "Gather information about the candidate's background and motivations",
+    "4": "Clarify questions and address specific circumstances",
+    "5": "Provide information about the Developers Institute program",
+    "6": "Recommend suitable bootcamp options",
+    "7": "Highlight the unique aspects and offerings of the program",
+    "8": "Emphasize the benefits of joining Developers Institute"
+  },
+  "pre_call_actions": {
+    "1": "Read or review the answers from the candidate's application form",
+    "2": "Check the candidate's LinkedIn profile and connect with them",
+    "3": "Be prepared to answer questions"
+  },
+  "discovery_call_questions": {
+    "1": "Introduce yourself and inquire about the candidate's well-being",
+    "2": "Ask the candidate to share a bit about themselves",
+    "3": "Present the DI program and inquire about the candidate's professional and academic background, coding knowledge, and reasons for wanting to study code",
+    "5": "Address specific circumstances such as immigration status or unemployment duration",
+    "6": "Inquire about the candidate's preferred bootcamp and start date"
+  },
+  "bootcamp_program_explanation": {
+    "1": "Explain the bootcamp programs offered by DI",
+    "2": "Detail the methodology and structure of the bootcamps, including full-time and part-time options, schedule, and support provided",
+    "3": "Highlight the practical, hands-on nature of the bootcamps and the expertise of the instructors",
+    "4": "Explain the internship opportunity and its benefits",
+    "5": "Describe the career coaching provided after the bootcamp",
+    "6": "Differentiate Developers Institute from other training programs and emphasize its focus on student success",
+    "7": "Present exclusive offers such as unlimited boot camps, access to learning platforms, and Slack community membership",
+    "8": "Highlight the additional mindset classes offered"
+  }
+}

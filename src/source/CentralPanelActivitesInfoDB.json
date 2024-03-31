@@ -1,0 +1,36 @@
+{
+  "Activity": {
+    "1": "Called @ 07:00",
+    "2": "Emailed Welcome",
+    "3": "Filled out form",
+    "4": "Started Crash Course"
+  },
+  "Notes": {
+    "1": "Likes to learn",
+    "2": "BA in Computers"
+  },
+  "Emails": {
+    "1": "Emailed Welcome",
+    "2": "Sent Contact"
+  },
+  "Calls": {
+    "1": "Called @ 07:00",
+    "2": "Interview call",
+    "3": "Called since she had questions"
+  },
+  "Tasks": {
+    "1": "Explain the bootcamp programs offered by DI",
+    "2": "Detail the methodology and structure of the bootcamps, including full-time and part-time options, schedule, and support provided",
+    "3": "Highlight the practical, hands-on nature of the bootcamps and the expertise of the instructors",
+    "4": "Explain the internship opportunity and its benefits",
+    "5": "Describe the career coaching provided after the bootcamp",
+    "6": "Differentiate Developers Institute from other training programs and emphasize its focus on student success",
+    "7": "Present exclusive offers such as unlimited boot camps, access to learning platforms, and Slack community membership",
+    "8": "Highlight the additional mindset classes offered"
+  },
+  "Meetings": {
+    "1": "First metting",
+    "2": "Second Interveiw",
+    "3": "meeting to explain the courses"
+  }
+}
